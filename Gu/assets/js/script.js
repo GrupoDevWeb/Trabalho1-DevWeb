@@ -44,3 +44,4 @@ animeScroll();
 window.addEventListener("scroll", ()=>{
   animeScroll();
 })
+
